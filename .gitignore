@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated test data and run artifacts
+testdata/
+*.png
+*.webm
+playwright-report/
+test-results/
+
+# Local probe scripts
+_probe_*.py
+*_probe.json
+
+# OS
+Thumbs.db
+desktop.ini
